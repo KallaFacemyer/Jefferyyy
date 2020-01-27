@@ -1,0 +1,22 @@
+body
+{
+    background-image: url(https://www.dinneratthezoo.com/wp-content/uploads/2019/06/zucchini-lasagna-6.jpg) ;
+    background-repeat:no-repeat;
+background-size: 100%;
+}
+h1, h2
+{
+text-align: center;
+color: midnightblue;
+border: 5px dashed green;
+padding: 10px;
+}
+div
+{
+margin-left: 45%;
+list-style: inside; 
+}
+p
+{
+    color: darkblue
+}
